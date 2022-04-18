@@ -1,0 +1,9 @@
+.photos {
+    height: 80px;
+    width: 80px;
+    margin-left: -40px;
+}
+
+.photos img {
+    border-radius: 50%;
+}
