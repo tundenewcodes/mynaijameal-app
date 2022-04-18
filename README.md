@@ -1,7 +1,10 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
+this app is a nextjs prototype of the foodmealapp i build with react.  i tried to build this with nextjs and and explred every feature and functionslities of react and nextjs i have learnt.
 
+the app is deployed on vercel and its running correctly.
+i am getting better
 First, run the development server:
 
 ```bash
